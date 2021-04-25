@@ -9,3 +9,9 @@ Rank: 4363
 ## Round 1A
 
 https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d
+
+Rank: 2065
+
+## Round 1B
+
+https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf
